@@ -1,0 +1,35 @@
+body{
+    background-color: purple;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    align-items: center;
+    color: white;
+
+}
+input{
+    width: 200px;
+    margin: 25px 0;
+    background-color:blueviolet;
+    height: 25px;
+    border-radius: 5px;
+}
+textarea{
+    width: 200px;
+    margin: 25px;
+    background-color: blueviolet;
+    height: 30px;
+    border-radius: 5px;
+}
+button{
+    width: 200px;
+    margin:10px;
+    background-color:blueviolet;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+
